@@ -1,4 +1,6 @@
-## Olá eu sou o Christian R. Gomes
+##<h1 align="center">  
+    ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&random=false&width=435&lines=Olá%2C+eu+sou+Christian+R.+Gomes!;Seja+Bem-vindo(a)+Ao+Meu+GitHub)
+  <h1/>
 
 - 🔭 Olá hoje sou dev_Jr. e trabalho com PHP, javascript e React
 - 🌱 Estou me especializando em Javascript, PHP e TypeScript
